@@ -1,0 +1,8 @@
+Flask
+flask-cors
+requests
+tldextract
+flask
+flask-cors
+python-dotenv
+google-generativeai
